@@ -1,0 +1,6 @@
+---
+:backends: yaml
+:yaml:
+  :datadir: /home/dan/workarea/hieradata
+:hierarchy: common
+:logger: console

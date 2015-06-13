@@ -1,0 +1,14 @@
+{
+  "name": "dansanabria-hostname",
+  "version": "0.1.0",
+  "author": "dansanabria",
+  "summary": "siimple module to manage the hostname on a fedora system",
+  "license": "Apache-2.0",
+  "source": "",
+  "project_page": null,
+  "issues_url": null,
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
