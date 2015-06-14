@@ -1,6 +1,8 @@
 ---
 :backends: yaml
 :yaml:
-  :datadir: /home/dan/workarea/hieradata
-:hierarchy: common
+    :datadir: /home/dan/workarea/hieradata
+:hierarchy:
+  - "%{hostname}"
+  - common
 :logger: console
