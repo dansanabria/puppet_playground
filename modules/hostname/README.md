@@ -4,6 +4,5 @@
 
 1. [Overview](#overview)
 
-## Overview
 
 Managing hostname file
